@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">التاريخ الهجري والقبلة</string>
+    <string name="tab_hijri">التاريخ الهجري</string>
+    <string name="tab_qibla">اتجاه القبلة</string>
+    <string name="tab_settings">الإعدادات</string>
+
+    <!-- Hijri Converter Strings -->
+    <string name="title_converter">تحويل التاريخ الميلادي إلى الهجري</string>
+    <string name="desc_converter">حساب التاريخ الهجري بدقة بناءً على تقويم أم القرى مع إمكانية تصحيح رؤية الهلال</string>
+    <string name="gregorian_day">اليوم</string>
+    <string name="gregorian_month">الشهر</string>
+    <string name="gregorian_year">السنة</string>
+    <string name="btn_convert">تحويل إلى التاريخ الهجري</string>
+    <string name="btn_today">اليوم</string>
+    <string name="btn_yesterday">أمس</string>
+    <string name="btn_tomorrow">غداً</string>
+    <string name="btn_pick_date">اختر تاريخاً</string>
+    <string name="adjustment_title">تصحيح رؤية الهلال (± أيام)</string>
+    <string name="adjustment_hint">لتوافق تقويم بلدك عند اختلاف بداية الشهر</string>
+    <string name="hijri_result_title">النتيجة الهجرية</string>
+    <string name="event_tag">المناسبة الإسلامية</string>
+
+    <!-- Notification Strings -->
+    <string name="notification_section_title">إشعار التاريخ الهجري الدائم</string>
+    <string name="notification_toggle_title">تفعيل الإشعار الدائم في لوحة الإشعارات</string>
+    <string name="notification_toggle_desc">عرض التاريخ الهجري بشكل مستمر وثابت حتى بعد إغلاق التطبيق</string>
+    <string name="notification_mode_title">وضع عرض الإشعار</string>
+    <string name="notification_mode_daily">التاريخ الحالي المتجدد يومياً</string>
+    <string name="notification_mode_fixed">تثبيت التاريخ المحول يدوياً</string>
+    <string name="notification_channel_name">التاريخ الهجري الدائم</string>
+    <string name="notification_channel_desc">إشعار يعرض التاريخ الهجري في شريط الإشعارات</string>
+    <string name="notification_permission_title">تنبيه إذن الإشعارات</string>
+    <string name="notification_permission_desc">يتطلب التطبيق إذن الإشعارات لعرض التاريخ الهجري في شريط الحالة</string>
+    <string name="notification_permission_btn">منح إذن الإشعارات</string>
+
+    <!-- Qibla Strings -->
+    <string name="qibla_title">بوصلة اتجاه القبلة المشرفة</string>
+    <string name="qibla_subtitle">نحو الكعبة المشرفة في مكة المكرمة</string>
+    <string name="qibla_aligned">أنت الآن في اتجاه القبلة مباشرة! (تقبل الله)</string>
+    <string name="qibla_not_aligned">قم بتدوير الهاتف حتى يتطابق السهم الذهبي مع الكعبة</string>
+    <string name="qibla_angle_label">زاوية القبلة من الشمال الجغرافي</string>
+    <string name="qibla_device_heading">اتجاه الهاتف الحالي</string>
+    <string name="qibla_diff_label">الانحراف عن القبلة</string>
+    <string name="qibla_north">ش</string>
+    <string name="qibla_east">شـ</string>
+    <string name="qibla_south">ج</string>
+    <string name="qibla_west">غ</string>
+    <string name="location_source_gps">موقع GPS دقيق</string>
+    <string name="location_source_manual">موقع يدوي محدد</string>
+    <string name="location_permission_needed">يرجى منح إذن الموقع لتحديد زاوية القبلة بدقة متناهية</string>
+    <string name="btn_grant_location">تفعيل الموقع التلقائي</string>
+    <string name="btn_select_city">اختيار مدينة إسلامية</string>
+    <string name="sensor_missing_warning">هذا الجهاز لا يحتوي على مستشعر البوصلة المغناطيسية، يتم عرض الزاوية الجغرافية الدقيقة للقبلة ويمكنك توجيه هاتفك بحسب زاوية الشمال.</string>
+    <string name="calibrate_dialog_title">إرشادات معايرة البوصلة</string>
+    <string name="calibrate_dialog_text">لضمان دقة المؤشر، حرّك هاتفك في الهواء على شكل رقم 8 بالإنجليزية (∞) بعيداً عن الأجهزة الإلكترونية أو الأسطح المعدنية.</string>
+    <string name="btn_calibrate">معايرة البوصلة</string>
+
+    <!-- General -->
+    <string name="close">إغلاق</string>
+    <string name="confirm">تأكيد</string>
+    <string name="save">حفظ</string>
+</resources>

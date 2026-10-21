@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Official Telegram Circular Badge with Paper Plane -->
+    <path
+        android:fillColor="#2AABEE"
+        android:pathData="M12,2C6.48,2 2,6.48 2,12s4.48,10 10,10 10,-4.48 10,-10S17.52,2 12,2z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M16.64,8.8l-1.63,7.69c-0.12,0.55 -0.45,0.68 -0.91,0.42l-2.5,-1.84 -1.21,1.16c-0.13,0.13 -0.25,0.25 -0.5,0.25l0.18,-2.55 4.64,-4.19c0.2,-0.18 -0.04,-0.28 -0.31,-0.1l-5.74,3.61 -2.48,-0.77c-0.54,-0.17 -0.55,-0.54 0.11,-0.8l9.69,-3.74c0.45,-0.16 0.84,0.1 0.7,0.73z" />
+</vector>

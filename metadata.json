@@ -1,0 +1,6 @@
+{
+  "name": "التاريخ الهجري والقبلة",
+  "description": "تطبيق إسلامي شامل لتحويل التاريخ الميلادي إلى الهجري، وإظهار التاريخ الهجري في إشعار دائم، وبوصلة دقيقة لاتجاه القبلة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
